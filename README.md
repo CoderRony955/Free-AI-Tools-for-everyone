@@ -11,5 +11,5 @@
 )
   
 
-## Creator
+## Author
 [Raunak Sharma](https://github.com/CoderRony955) :>
